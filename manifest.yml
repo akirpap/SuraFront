@@ -1,0 +1,3 @@
+applications:
+  - name: SuraFront
+    memory: 1024M
